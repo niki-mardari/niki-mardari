@@ -43,13 +43,8 @@
 
 ## 🌐 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niki-mardari-5909941a4)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProfessionalEngineer23)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pengui23/shorts)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@penguino234)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalEngineer23&layout=compact&theme=swift)
 
 ---
 
