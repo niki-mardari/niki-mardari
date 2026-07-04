@@ -1,5 +1,6 @@
-# Hi, I'm Niki 👋
+# Welcome!
 
+I'm Niki 
 **Interests:** Embedded Systems • IoT • AI • YouTube
 
 ---
