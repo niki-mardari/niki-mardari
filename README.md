@@ -5,39 +5,11 @@
 ---
 
 ## 💫 About Me
-- 🔭 Currently working on **Embedded Systems**
-- 👯 Open to collaborating on projects where I can learn and contribute
-- 🤝 Always improving — feedback and suggestions welcome
-- 🌱 Currently learning **GNSS**
-- 💬 Ask me about anything — I’ll do my best to help
-- ⚡ Fun fact: We're alive!
-
----
-
-<details>
-  <summary><b>CPU</b></summary>
-  <pre>
-  ⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠀⠀⢀⣀⣀⡀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⠀⠀⠸⣿⣿⠇⠀⠀⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⢀⣴⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣦⡀⠀⠀⠀⠀⠀
-  ⢰⣶⣦⠀⠀⢸⣿⡿⠋⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣴⣶⡆
-  ⠘⠛⠛⠀⠀⢸⣿⣷⣤⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠛⠛⠃
-  ⢀⣀⡀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⢀⣀⡀
-  ⢸⣿⣿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣿⣿⡇
-  ⠈⠉⠁⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠈⠉⠁
-  ⢠⣤⣤⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠛⢿⣿⡇⠀⠀⣤⣤⡄
-  ⠸⠿⠟⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣠⣾⣿⡇⠀⠀⠻⠿⠇
-  ⠀⠀⠀⠀⠀⠈⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠟⠁⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⠀⠀⢰⣿⣿⡆⠀⠀⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠈⠉⠉⠁⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀
-  </pre>
-  </details>
-
----
-
-> Remember Sand → `c`
+- Currently working on **Embedded Systems**
+- Open to collaborating on projects where I can learn and contribute
+- Always improving — feedback and suggestions welcome
+- Currently learning **GNSS**
+- Ask me about anything — I’ll do my best to help
 
 ---
 
