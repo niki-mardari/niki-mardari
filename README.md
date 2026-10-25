@@ -2,7 +2,7 @@
 
 # I'm Niki 
 
-**Interests:** Embedded Systems • IoT • AI • YouTube
+**Interests:** Embedded Systems • IoT • Hardware • YouTube
 
 ---
 
